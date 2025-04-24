@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources/Collectibles/Coin" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources/Collectibles/DamageBonus" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources/Collectibles/Hearth" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources/Collectibles/MovementBonus" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources/Collectibles/SpeedBonus" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources/Collectibles/WeaponBonus" type="java-resource" />
+    </content>
+  </component>
+</module>

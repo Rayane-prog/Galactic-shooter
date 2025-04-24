@@ -1,0 +1,37 @@
+START
+LongShooter / 50 / 60
+LongShooter / 480 / 80
+LongShooter / 960 / 60
+LongShooter / 1440 / 80
+LongShooter / 1820 / 60
+CosmicCharger / 0 / -100 / T / 7
+CosmicCharger / 100 / -100 / T / 7.25
+CosmicCharger / 200 / -100 / T / 7.5
+CosmicCharger / 300 / -100 / T / 7.75
+CosmicCharger / 400 / -100 / T / 8
+CosmicCharger / 500 / -100 / T / 8.25
+CosmicCharger / 600 / -100 / T / 8.5
+CosmicCharger / 700 / -100 / T / 8.75
+CosmicCharger / 800 / -100 / T / 9
+CosmicCharger / 900 / -100 / T / 9.25
+CosmicCharger / 1000 / -100 / T / 9.5
+CosmicCharger / 1920 / -100 / T / 12
+CosmicCharger / 1820 / -100 / T / 12.25
+CosmicCharger / 1720 / -100 / T / 12.5
+CosmicCharger / 1620 / -100 / T / 12.75
+CosmicCharger / 1520 / -100 / T / 13
+CosmicCharger / 1420 / -100 / T / 13.25
+CosmicCharger / 1320 / -100 / T / 13.5
+CosmicCharger / 1220 / -100 / T / 13.75
+CosmicCharger / 1120 / -100 / T / 14
+CosmicCharger / 1020 / -100 / T / 14.25
+CosmicCharger / 920 / -100 / T / 14.5
+Asteroid / 959 / -350 / T / 8
+Asteroid / 961 / -350 / T / 6
+Asteroid / 0 / -350 / T / 4
+Asteroid / 0 / -350 / T / 12
+Asteroid / 0 / -350 / T / 16
+Asteroid / 2000 / -350 / T / 14
+Asteroid / 2000 / -350 / T / 3
+Asteroid / 2000 / -350 / T / 12
+ENDF

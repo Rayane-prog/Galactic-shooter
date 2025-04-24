@@ -1,0 +1,153 @@
+START
+GalacticGunner / 0 / 80
+GalacticGunner / 1920 / 80
+GalacticGunner / 480 / 160
+GalacticGunner / 1440 / 160
+Asteroid / -100 / -200
+Asteroid / 2300 / -450
+END
+START
+LongShooter / 960 / 15
+Asteroid / -100 / -200 / T / 6
+Asteroid / -200 / -500 / T / 5
+Asteroid / 2120 / -500 / T / 3
+Asteroid / 2300 / -450 / T / 6
+GalacticGunner / 80 / 160
+GalacticGunner / 160 / 80
+GalacticGunner / 240 / 160
+GalacticGunner / 320 / 80
+GalacticGunner / 400 / 160
+GalacticGunner / 480 / 80
+GalacticGunner / 560 / 160
+GalacticGunner / 640 / 80
+GalacticGunner / 720 / 160
+GalacticGunner / 800 / 80
+GalacticGunner / 880 / 160
+GalacticGunner / 960 / 80
+GalacticGunner / 1040 / 160
+GalacticGunner / 1120 / 80
+GalacticGunner / 1200 / 160
+GalacticGunner / 1280 / 80
+GalacticGunner / 1360 / 160
+GalacticGunner / 1440 / 80
+GalacticGunner / 1520 / 160
+GalacticGunner / 1600 / 80
+GalacticGunner / 1680 / 160
+GalacticGunner / 1760 / 80
+GalacticGunner / 1840 / 160
+END
+START
+LongShooter / 50 / 60
+LongShooter / 480 / 80
+LongShooter / 960 / 60
+LongShooter / 1440 / 80
+LongShooter / 1820 / 60
+CosmicCharger / 960 / -100 / T / 5
+CosmicCharger / 960 / -100 / T / 7.5
+CosmicCharger / 960 / -100 / T / 10
+END
+START
+Asteroid / -100 / -500 / T / 1
+Asteroid / -200 / -500 / T / 2
+Asteroid / -50 / -350 / T / 3
+Asteroid / -100 / -350 / T / 4
+Asteroid / -800 / -500 / T / 1
+Asteroid / -100 / -500 / T / 6
+Asteroid / 2000 / -500 / T / 10
+Asteroid / 2200 / -500 / T / 2
+Asteroid / 1950 / -600 / T / 3.5
+Asteroid / 2300 / -400 / T / 1
+Asteroid / 2500 / -500
+Asteroid / 2000 / -500 / T / 8
+END
+START
+CosmicCharger / 0 / -100 / T / 7
+CosmicCharger / 100 / -100 / T / 7.25
+CosmicCharger / 200 / -100 / T / 7.5
+CosmicCharger / 300 / -100 / T / 7.75
+CosmicCharger / 400 / -100 / T / 8
+CosmicCharger / 500 / -100 / T / 8.25
+CosmicCharger / 600 / -100 / T / 8.5
+CosmicCharger / 700 / -100 / T / 8.75
+CosmicCharger / 800 / -100 / T / 9
+CosmicCharger / 900 / -100 / T / 9.25
+CosmicCharger / 1000 / -100 / T / 9.5
+CosmicCharger / 1920 / -100 / T / 12
+CosmicCharger / 1820 / -100 / T / 12.25
+CosmicCharger / 1720 / -100 / T / 12.5
+CosmicCharger / 1620 / -100 / T / 12.75
+CosmicCharger / 1520 / -100 / T / 13
+CosmicCharger / 1420 / -100 / T / 13.25
+CosmicCharger / 1320 / -100 / T / 13.5
+CosmicCharger / 1220 / -100 / T / 13.75
+CosmicCharger / 1120 / -100 / T / 14
+CosmicCharger / 1020 / -100 / T / 14.25
+CosmicCharger / 920 / -100 / T / 14.5
+LongShooter / 100 / 30
+LongShooter / 1800 / 30
+LongShooter / 960 / 30
+GalacticGunner / 60 / 80
+GalacticGunner / 160 / 80
+GalacticGunner / 260 / 80
+GalacticGunner / 360 / 80
+GalacticGunner / 460 / 80
+GalacticGunner / 560 / 80
+GalacticGunner / 660 / 80
+GalacticGunner / 760 / 80
+GalacticGunner / 860 / 80
+GalacticGunner / 959 / 80
+GalacticGunner / 1060 / 80
+GalacticGunner / 1160 / 80
+GalacticGunner / 1260 / 80
+GalacticGunner / 1360 / 80
+GalacticGunner / 1460 / 80
+GalacticGunner / 1560 / 80
+GalacticGunner / 1660 / 80
+GalacticGunner / 1760 / 80
+GalacticGunner / 1860 / 80
+GalacticGunner / 60 / 150
+GalacticGunner / 160 / 150
+GalacticGunner / 260 / 150
+GalacticGunner / 360 / 150
+GalacticGunner / 460 / 150
+GalacticGunner / 560 / 150
+GalacticGunner / 660 / 150
+GalacticGunner / 760 / 150
+GalacticGunner / 860 / 150
+GalacticGunner / 959 / 150
+GalacticGunner / 1060 / 150
+GalacticGunner / 1160 / 150
+GalacticGunner / 1260 / 150
+GalacticGunner / 1360 / 150
+GalacticGunner / 1460 / 150
+GalacticGunner / 1560 / 150
+GalacticGunner / 1660 / 150
+GalacticGunner / 1760 / 150
+GalacticGunner / 1860 / 150
+Asteroid / -100 / -500
+Asteroid / -100 / -500
+Asteroid / -100 / -500
+Asteroid / -100 / -500
+Asteroid / -100 / -500
+Asteroid / -100 / -500 / T / 1
+Asteroid / -100 / -500 / T / 2
+Asteroid / -100 / -500 / T / 3
+Asteroid / -100 / -500 / T / 4
+Asteroid / -100 / -500 / T / 5
+Asteroid / -100 / -500 / T / 6
+Asteroid / 2000 / -500
+Asteroid / 2000 / -500
+Asteroid / 2000 / -500
+Asteroid / 2000 / -500
+Asteroid / 2000 / -500
+Asteroid / 2000 / -500 / T / 1
+Asteroid / 2000 / -500 / T / 2
+Asteroid / 2000 / -500 / T / 3
+Asteroid / 2000 / -500 / T / 4
+Asteroid / 2000 / -500 / T / 5
+Asteroid / 2000 / -500 / T / 6
+Asteroid / 2000 / -500 / T / 7
+END
+START
+Boss / 800 / 250
+ENDF
