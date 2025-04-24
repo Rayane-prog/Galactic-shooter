@@ -2,7 +2,7 @@
 
 # Galactic Shooter
 
-## Présentation du projet
+## Présentation du projet  : Par ZIAD IJJA
 
 Galactic Shooter est un jeu de tir à la vue du dessus en 2D réalisé en Java grâce à l'interface graphique JavaFX.
 
